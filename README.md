@@ -29,6 +29,6 @@ Bash
 npm run reset-project
 Este comando move o código inicial para a pasta app-example e cria uma pasta app vazia para você.
 
-![imagem](assets/ftdoapp.png)
-![imagem](assets/ftdoapp1.png)
-![imagem](assets/ftdoapp2.png)
+![imagem](assets/images/ftdoapp.png)
+![imagem](assets/images/ftdoapp1.png)
+![imagem](assets/images/ftdoapp2.png)
